@@ -91,8 +91,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alzaaa6&show_icons=true&theme=dracula&locale=en" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alzaaa6&locale=en&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=alzaaa6&show_icons=true&theme=dracula&locale=en" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=alzaaa6&locale=en&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph"  />
 </div>
 
 ###
